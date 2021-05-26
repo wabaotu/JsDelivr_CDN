@@ -84,21 +84,21 @@ var dcys = {
             'name': '八戒资源',
             'rema': 'M3U8',
             'apis': 'http://cj.bajiecaiji.com/inc/seabjm3u8.php',
-            'tips': '<span class="layui-badge layui-bg-green">国外节点</span>',
+            'tips': '<span class="layui-badge layui-bg-green">正常采集</span>',
             'coll': '八戒云播,bjm3u8,99995,1'
         },{
             'flag': 'kuaibo',
             'name': '快播资源',
             'rema': 'M3U8',
             'apis': 'http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/',
-            'tips': '<span class="layui-badge layui-bg-green">国外节点</span>',
+            'tips': '<span class="layui-badge layui-bg-green">正常采集</span>',
             'coll': '快播,kbm3u8,99995,1'
         },{
             'flag': 'baidu',
             'name': '百度资源',
             'rema': 'M3U8',
             'apis': 'https://m3u8.apibdzy.com/api.php/provide/vod/from/kbm3u8/at/xml/',
-            'tips': '<span class="layui-badge layui-bg-green">国外节点</span>',
+            'tips': '<span class="layui-badge layui-bg-green">正常采集</span>',
             'coll': '百度云播,dbm3u8,99994,1'
         }
 		,{
@@ -106,14 +106,21 @@ var dcys = {
             'name': '乐播资源',
             'rema': 'M3U8',
             'apis': 'https://api.leduozy.com/inc/api.php',
-            'tips': '<span class="layui-badge layui-bg-green">国外节点</span>',
+            'tips': '<span class="layui-badge layui-bg-green">正常采集</span>',
             'coll': '乐播云播,leduo,99993,1'
+        },{
+            'flag': 'tkm3u8',
+            'name': '天空资源',
+            'rema': 'M3U8',
+            'apis': 'https://m3u8.tiankongapi.com/api.php/provide/vod/at/xml/',
+            'tips': '<span class="layui-badge layui-bg-green">正常采集</span>',
+            'coll': '天空云播,tkm3u8,99993,1'
         },{
             'flag': 'juhem3u8',
             'name': '聚合资源',
             'rema': 'M3U8',
             'apis': 'https://cj.cbi88.com/inc/api_juhem3u8.php',
-            'tips': '<span class="layui-badge layui-bg-green">国外节点</span>',
+            'tips': '<span class="layui-badge layui-bg-green">正常采集</span>',
             'coll': '聚合云播,juhem3u8,99993,1'
         }]
     },

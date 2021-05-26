@@ -6,7 +6,7 @@ var dcys = {
         'tips': '<font color="red">采集全部资源请先把独立资源播放器配置了</font>',
         'rows': [ {
             'name': '全部资源',
-            'rema': '直链',
+            'rema': '官链',
             'apis': 'http://cms.lmzy.cc/api.php/provide/vod/?ac=list',
             'tips': '<span class="layui-badge layui-bg-green">国内节点</span>',
             

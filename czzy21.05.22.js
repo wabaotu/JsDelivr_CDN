@@ -1,5 +1,42 @@
-;
+
 var dcys = {
+	
+	'advs': {
+		'head': '本插件由『挖宝兔资源网』提供 >>> 官方网站：<a href="//www.wabaotu.cn/">www.wabaotu.cn</a> >>> 广告投放 >> 咨询QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=188810296&site=qq&menu=yes" class="layui-badge layui-bg-red">188810296</a> >>>',
+		'tips': '',
+		'rows': [{
+			'name': '<font color="red">蓝猫解析系统</font>',
+			'rema': '<font color="blue">官方解析</font>',
+			'urls': 'https://vip.julong.pub/',
+			'tips': '<span class="layui-badge layui-bg-red">吐血推荐</span>',
+			'tip1': '<font color="blue">蓝猫官方采集</font>',
+			'url1': '//www.lmzy.cc',
+			'tip2': '广告位招租',
+			'url2': 'http://www.lmzy.cc',
+			'tip3': '广告位招租',
+			'url3': 'http://www.lmzy.cc',
+			'tip4': '广告位招租',
+			'url4': 'https://www.aliyun.com/minisite/goods?userCode=99999'
+		}, {
+			'name': '采集常见问题',
+			'rema': '无法播放等问题',
+			'urls': 'http://www.lmzy.cc/cjwt/',
+			'tips': '<span class="layui-badge layui-bg-green">常见问题</span>',
+			'tip1': '<font color="red">采集无法绑定分类的解决办法</font>',
+			'url1': 'http://www.lmzy.cc/cjwt/5.html',
+			'tip2': '<font color="red">V10定时任务自动采集教程</font>',
+			'url2': 'http://www.lmzy.cc/cjwt/4.html',
+			'tip3': '采集后没有播放数据的解决办法',
+			'url3': 'http://www.lmzy.cc/cjwt/6.html',
+			'tip4': '采集后无法播放的解决办法',
+			'url4': 'http://www.lmzy.cc/cjwt/8.html'
+		}]
+	},
+	
+	
+	
+	
+	
     
      'bizh': {
         'head': '官方直链',

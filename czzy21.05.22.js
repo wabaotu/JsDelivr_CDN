@@ -50,7 +50,7 @@ var dcys = {
             'apis': 'http://cms.lmzy.cc/api.php/provide/vod/from/bilibili/',
             'tips': '<span class="layui-badge layui-bg-green">国内节点</span>',
             'coll': '哔哩哔哩,bilibili,99996,1'
-        }, {
+        }, { 
             'flag': 'sohu',
             'name': '搜狐视频',
             'rema': '官链',

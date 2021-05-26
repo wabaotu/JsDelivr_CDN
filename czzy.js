@@ -2,7 +2,7 @@
 var dcys = {
 	
 	'advs': {
-		'head': '本插件由『挖宝兔资源网』提供 >>> 官方网站：<a href="//www.wabaotu.cn/">www.wabaotu.cn</a> >>> 广告投放 >> 咨询QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=188810296&site=qq&menu=yes" class="layui-badge layui-bg-red">188810296</a> >>>',
+		'head': '本插件由『蓝猫资源网』提供 >>> 官方网站：<a href="//www.lmzy.cc/">www.lmzy.cc</a> >>> 广告投放 >> 咨询QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=188810296&site=qq&menu=yes" class="layui-badge layui-bg-red">188810296</a> >>>',
 		'tips': '',
 		'rows': [{
 			'name': '<font color="red">蓝猫解析系统</font>',
